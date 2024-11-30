@@ -1,0 +1,40 @@
+/*chatgptden goturmusem style*/
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+}
+
+header {
+    background: #f4f4f4;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+section {
+    margin-top: 20px;
+}
+
+p {
+    margin: 5px 0;
+}
+
+.button-container {
+    margin-top: 20px;
+    text-align: center;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
